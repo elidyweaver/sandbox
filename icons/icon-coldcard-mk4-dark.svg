@@ -1,0 +1,19 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.4763 10.0108C16.9165 9.85846 17.0003 11.344 17.0003 12.6011C17.1908 18.8609 17.0003 32.2185 17.0003 36.1039C17.0003 39.9893 17.7241 39.9893 19.1716 39.9893C22.4094 39.9258 29.4107 39.8369 31.5134 39.9893C33.6161 40.1417 33.9386 38.6307 33.837 37.8561C33.71 30.4155 33.837 14.9673 33.837 12.6011C33.837 10.4298 32.6942 10.0108 32.0848 10.0108C28.9485 10.0743 22.0361 10.1632 19.4763 10.0108Z" stroke="black"/>
+<mask id="path-2-inside-1_56_4869" fill="white">
+<rect x="18.0669" y="13.1344" width="9.5992" height="5.63763" rx="0.609473"/>
+</mask>
+<rect x="18.0669" y="13.1344" width="9.5992" height="5.63763" rx="0.609473" stroke="black" stroke-width="5.63763" mask="url(#path-2-inside-1_56_4869)"/>
+<circle cx="21.1146" cy="23.9525" r="1.5" stroke="black" stroke-width="0.809207"/>
+<circle cx="25.3807" cy="23.9525" r="1.5" stroke="black" stroke-width="0.809207"/>
+<circle cx="29.7235" cy="23.9525" r="1.5" stroke="black" stroke-width="0.809207"/>
+<circle cx="21.1146" cy="28.295" r="1.5" stroke="black" stroke-width="0.809207"/>
+<circle cx="25.3807" cy="28.295" r="1.5" stroke="black" stroke-width="0.809207"/>
+<circle cx="29.7235" cy="28.295" r="1.5" stroke="black" stroke-width="0.809207"/>
+<circle cx="21.1146" cy="32.6375" r="1.5" stroke="black" stroke-width="0.809207"/>
+<circle cx="25.3807" cy="32.6375" r="1.5" stroke="black" stroke-width="0.809207"/>
+<circle cx="29.7235" cy="32.6375" r="1.5" stroke="black" stroke-width="0.809207"/>
+<circle cx="21.1146" cy="36.98" r="1.5" stroke="black" stroke-width="0.809207"/>
+<circle cx="25.3807" cy="36.98" r="1.5" stroke="black" stroke-width="0.809207"/>
+<circle cx="29.7235" cy="36.98" r="1.5" stroke="black" stroke-width="0.809207"/>
+</svg>
